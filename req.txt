@@ -1,0 +1,7 @@
+opencv-python
+Pillow
+requests
+mysql-connector-python
+python-dotenv
+numpy
+openai
